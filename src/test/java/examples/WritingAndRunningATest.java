@@ -34,5 +34,6 @@ public class WritingAndRunningATest {
     public void thisMethodIsNotIdentifiedAsATestMethod(){
 
         // The code in here might be utility code used in a test
+        // This method is not seen by JUnit as a test method, though
     }
 }
