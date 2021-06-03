@@ -23,7 +23,7 @@ public class WritingAndRunningATest {
      */
     @Test
     public void thisMethodIsAlsoIdentifiedAsATestMethod() {
-        
+
         // The code that makes up the test goes here...
     }
 
@@ -32,5 +32,7 @@ public class WritingAndRunningATest {
      * does not identify it as a test method.
      */
     public void thisMethodIsNotIdentifiedAsATestMethod(){
+
+        // The code in here might be utility code used in a test
     }
 }
