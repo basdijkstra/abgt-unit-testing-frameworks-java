@@ -13,6 +13,8 @@ public class WritingAndRunningATest {
      */
     @Test
     public void thisMethodIsIdentifiedAsATestMethod() {
+
+        // The code that makes up the test goes here...
     }
 
     /**
@@ -21,6 +23,8 @@ public class WritingAndRunningATest {
      */
     @Test
     public void thisMethodIsAlsoIdentifiedAsATestMethod() {
+        
+        // The code that makes up the test goes here...
     }
 
     /**
