@@ -18,7 +18,7 @@ public class AddingAssertionsToATest {
 
         int ourResult = 2 + 2;
 
-        assertEquals(5, ourResult);
+        assertEquals(4, ourResult);
     }
 
     /**
